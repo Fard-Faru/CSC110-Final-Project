@@ -1,0 +1,11 @@
+# For testing
+python_ta
+
+# The GUI library
+PyQt5
+
+# Plotting the data
+PyQtGraph
+
+# Getting dataset from the internet
+requests
